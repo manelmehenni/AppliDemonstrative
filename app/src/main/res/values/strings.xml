@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppliDemonstrative</string>
+    <string name="welcome">Bienvenue </string>
+    <string name="nomUtilisateur">Saisissez votre nom d\'utilisateur</string>
+    <string name="mdp">Saissisez votre mot de passe</string>
+
+</resources>
